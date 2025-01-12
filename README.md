@@ -1,1 +1,1 @@
-o teste de um app para auxiliar nos estudos com IA
+ProfeBot e um aplicativo de professor virtual desenvolvido para estudantes do ensino medio.
